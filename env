@@ -1,0 +1,14 @@
+OPENAI_API_KEY=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
+GOOGLE_API_KEY=AIzaSyA4kGYFu_mc5XkXUhwWtMEAJgbhYB7Xb0o
+#OPENAI_API_KEY=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
+export LANGSMITH_API_KEY = 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
+#export LANGSMITH_PROJECT = hello-world
+#export LANGSMITH_ENDPOINT="https://eu.api.smith.langchain.com"
+#export LANGSMITH_TRACTING="true"
+
+export LANGSMITH_TRACING=true
+export LANGSMITH_ENDPOINT=https://eu.api.smith.langchain.com
+#export LANGSMITH_PROJECT="pr-extraneous-gastropod-69"
+#export LANGSMITH_PROJECT="Search Agent"
+export TAVILY_API_KEY=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
+export LANGSMITH_PROJECT=ReAct Under The Hood
