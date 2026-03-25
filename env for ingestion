@@ -1,0 +1,17 @@
+OPENAI_API_KEY=mykey
+GOOGLE_API_KEY=mykey
+#OPENAI_API_KEY=mykey
+export LANGSMITH_API_KEY = mykey
+#export LANGSMITH_PROJECT = hello-world
+#export LANGSMITH_ENDPOINT="https://eu.api.smith.langchain.com"
+#export LANGSMITH_TRACTING="true"
+
+export LANGSMITH_TRACING=true
+export LANGSMITH_ENDPOINT=https://eu.api.smith.langchain.com
+#export LANGSMITH_PROJECT="pr-extraneous-gastropod-69"
+#export LANGSMITH_PROJECT="Search Agent"
+export TAVILY_API_KEY=mykey
+#export LANGSMITH_PROJECT=ReAct Under The Hood
+export LANGSMITH_PROJECT=RAG GIST
+INDEX_NAME=medium-blogs-embeddings-index1
+PINECONE_API_KEY=mykey
